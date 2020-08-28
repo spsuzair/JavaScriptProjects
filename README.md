@@ -1,2 +1,2 @@
 # JavaScriptProjects
- Learning JavaScripts
+ Learning JavaScripts with GitHub
