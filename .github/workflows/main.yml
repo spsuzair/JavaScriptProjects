@@ -36,7 +36,7 @@ jobs:
         
       #Deploy to app to surge
       - name: Deploy Project to surge
-        run: surge ./ Project001_spsuzair1980.surge.sh --token ${{ secrets.project001_SURGE_TOKEN }}  
+        run: surge ./ spsuzair.surge.sh --token ${{ secrets.project001_SURGE_TOKEN }}  
            
 
      
