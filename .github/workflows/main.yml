@@ -27,7 +27,7 @@ jobs:
       - name: Installing node
         uses: actions/setup-node@v2-beta
         with:
-           node-ersion: '12'
+           node-version: '12'
            
       # Installing Surge
       - name : Installing surge
